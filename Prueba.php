@@ -1,1 +1,1 @@
-prueba
+<?php echo prueba ?>
